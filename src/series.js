@@ -30,13 +30,13 @@ const listOfSeries = {
       name: "Lost In Space",
       rating: 7.3,
       Seasons: 2,
-      imageUrl: require("./images/LostinSpace.jpg")
+      imageUrl: require("./images/LostInSpace.jpg")
     },
     {
       name: "The 100",
       rating: 7.6,
       Seasons: 7,
-      imageUrl: require("./images/The100.png")
+      imageUrl: require("./images/The100.jpg")
     }
   ],
   Drama: [
@@ -44,7 +44,7 @@ const listOfSeries = {
       name: "Locke & Key",
       rating: 7.4,
       Seasons: 1,
-      imageUrl: require("./images/Locke&Key.png")
+      imageUrl: require("./images/Locke&Key.jpg")
     },
     {
       name: "BodyGuard",
